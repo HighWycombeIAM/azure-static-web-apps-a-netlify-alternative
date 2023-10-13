@@ -6,7 +6,7 @@ import styles from "./index.module.css";
 
 /**
  * @typedef {object} UserInfo
- * @prop {"github"} identityProvider
+ * @prop {"aad"} identityProvider
  * @prop {string} userId
  * @prop {string} userDetails
  * @prop {string[]} userRoles
