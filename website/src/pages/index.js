@@ -51,7 +51,7 @@ export default function Home() {
             ) : (
               <a
                 className="button button--secondary button--lg"
-                href="/.auth/login/github"
+                href="/.auth/login/aad"
               >
                 Click here to login
               </a>
